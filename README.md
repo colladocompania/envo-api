@@ -661,3 +661,119 @@ Nuestra API está basada en principios REST que harán más fácil tu conexión 
 	  ]
 	 }
 	}
+	
+## Resumen de facturas
+
+### Request
+
+	{
+	  "RFCE": {
+	    "Encabezado": {
+
+	    "version": "1.0",
+
+	    "IdDoc": [
+
+	      {
+
+	    "eNCF": "E320000000003",
+	    "TipoeCF": 31,
+	    "TipoIngresos": 1,
+	    "TipoPago": 1,
+
+	       "TablaFormaPago": [
+		    {
+		      "FormaPago": 1,
+		      "MontoPago": 130123
+		    },
+		    {
+		      "FormaPago": 2,
+		      "MontoPago": 20123
+		    }
+		  ]
+		 }
+	      ],  
+
+	     "Emisor": [
+		{      
+
+		    "RNCEmisor": 102002959,
+		    "RazonSocialEmisor": "Envases Antillanos",
+		    "FechaEmision": "27-05-2020"
+
+		}
+	      ],
+
+	      "Comprador": [
+		{
+
+		    "RNCComprador": 102015925,
+		    "IdentificadorExtranjero": null,
+		    "RazonSocialComprador": "company CXC"
+		}
+	      ],
+
+	      "Totales": [
+		{
+		    "MontoGravadoTotal": 150123,
+		    "MontoGravadoI1": 150123,
+		    "MontoGravadoI2": 12000,
+		    "MontoGravadoI3": 12000,
+		    "MontoExento": 130123,
+		    "TotalITBIS": 1200,
+		    "TotalITBIS1": 1300,
+		    "TotalITBIS2": 0,
+		    "TotalITBIS3": 25000,
+		    "MontoImpuestoAdicional": 12300,
+
+			"ImpuestosAdicionales": [
+	  {
+
+	    "TipoImpuesto": 1,
+	    "MontoImpuestoSelectivoConsumoEspecifico": 1800,
+	    "MontoImpuestoSelectivoConsumoAdvalorem": 800,
+	    "OtrosImpuestosAdicionales": 500
+	  }
+	],
+
+		    "MontoTotal": 25000,
+		    "MontoNoFacturable": 0,
+		    "MontoPeriodo": 0
+
+		}
+	      ],
+		    "CodigoSeguridadeCF": "ymLKos"
+	      }
+
+	  }
+	}
+
+## Anulaciones
+
+### Request
+
+	{
+	  "ANECF": {
+	    "Encabezado": {
+	      "version": "1.0",
+	      "RNCEmisor": 102002959,
+	      "CantidadeNCFAnulados": 2,
+	      "FechaHoraAnulacioneNCF": "30-05-2020:10:50:25"
+	    },
+	    "DetalleAnulacion": {
+	      "Anulacion": [
+		{
+		  "NoLinea": 10,
+		  "TipoeCF": 31,
+		  "TablaRangoSecuenciasAnuladaseNCF": [
+		    {
+		      "SecuenciaeNCFDesde": "E310000000001",
+		      "SecuenciaeNCFHasta": "E310000000002"
+		    }
+		  ],
+		  "CantidadeNCFAnulados": 2
+		}
+	      ]
+	    }
+	  }
+	}
