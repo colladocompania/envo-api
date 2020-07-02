@@ -1,6 +1,6 @@
 # Ejemplos de utilización de ENVO API RestFul
 
-## Información general
+### Información general
  
 El API ENVO es un servicio que te permite acceder a nuestra plataforma de facturación electrónica, para realizar el envío de comprobantes electrónicos a la DGII.
  
