@@ -12,9 +12,9 @@ El API ENVO es un servicio que te permite acceder a nuestra plataforma de factur
 	
 ### Recurso/Endpoint
 
-	1.Facturas/invoice	
-	2.Resumen de facturas/resume
-	3.Anulaciones/canceled
+	-Facturas/invoice	
+	-Resumen de facturas/resume
+	-Anulaciones/canceled
 	
 Nuestra API está basada en principios REST que harán más fácil tu conexión y desarrollo; métodos HTTP (GET y POST) son utilizados para acceder a los recursos. El sistema    	 procesa el request y retorna un código de respuesta en un formato de fácil compresión.
 
@@ -24,9 +24,9 @@ Nuestra API está basada en principios REST que harán más fácil tu conexión 
 
 Debes seguir los siguientes pasos para obtener el token de acceso:
 
-1.Ingresar a aplicación envo.do
-2.Haz clic sobre el vínculo "Solicitar acceso" en la parte superior y complete el formulario de acceso.
-3.Recibira un correo electrónico con las informaciones correspondientes.
+	1.Ingresar a aplicación envo.do
+	2.Haz clic sobre el vínculo "Solicitar acceso" en la parte superior y complete el formulario de acceso.
+	3.Recibira un correo electrónico con las informaciones correspondientes.
 
 ### Errores de autenticación
 
