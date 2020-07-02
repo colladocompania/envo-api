@@ -843,7 +843,7 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 
     []
     
-## Términos y Condiciones API Alegra
+## Términos y Condiciones ENVO API
 
 Términos y condiciones que debes tener en cuenta al utilizar el API de ENVO.
 
