@@ -42,7 +42,7 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 
 `POST /invoice/`
 
-    `curl -i -H 'Accept: application/json' -d '' https://app.envo.do/invoices/api/invoice`
+`curl -i -H 'Accept: application/json' -d '' https://app.envo.do/invoices/api/invoice`
 
 ### Request
 
