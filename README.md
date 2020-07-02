@@ -1,7 +1,6 @@
 # Ejemplos de utilización de ENVO API RestFul
 
-This is a bare-bones example of a Sinatra application providing a REST
-API to a DataMapper-backed model.
+Explicación en detalle para consumir el API
 
 The entire application is contained within the `app.rb` file.
 
@@ -13,6 +12,6 @@ documentation below.
 It uses `run-curl-tests.rb` which runs each command defined in
 `commands.yml`.
 
-## Obtener acceso a ENVO
+## Información general
 
-    utilizar token & usuario
+ Esta página te ayudará a comenzar con el API de Alegra
