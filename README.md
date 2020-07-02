@@ -132,11 +132,11 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 	    ],
 	    "Comprador": [
 	      {
-		"RNCComprador": 101896183,
+		"RNCComprador": 131978596,
 		"IdentificadorExtranjero": null,
 		"RazonSocialComprador": "SAP Consulting",
 		"ContactoComprador": "William Gonzanlez",
-		"CorreoComprador": "dts@hi.com",
+		"CorreoComprador": "plans@hi.com",
 		"DireccionComprador": "Av. John F. Kennedy #27",
 		"MunicipioComprador": 20101,
 		"ProvinciaComprador": 20000,
@@ -216,7 +216,7 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 		  {
 
 		    "TipoImpuesto": 1,
-		    "TasaImpuestoAdicional": 16,
+		    "TasaImpuestoAdicional": 18,
 		    "MontoImpuestoSelectivoConsumoEspecifico": 1200,
 		    "MontoImpuestoSelectivoConsumoAdvalorem": 1100,
 		    "OtrosImpuestosAdicionales": 0
@@ -822,7 +822,7 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 		  "TablaRangoSecuenciasAnuladaseNCF": [
 		    {
 		      "SecuenciaeNCFDesde": "E310000000001",
-		      "SecuenciaeNCFHasta": "E310000000002"
+		      "SecuenciaeNCFHasta": "E310000000001"
 		    }
 		  ],
 		  "CantidadeNCFAnulados": 2
