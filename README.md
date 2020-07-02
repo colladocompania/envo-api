@@ -849,15 +849,15 @@ Términos y condiciones que debes tener en cuenta al utilizar el API de ENVO.
 
 ### Definiciones
 
--ENVO API o Servicios ENVO API, hacen referencia a toda la información y funcionalidades que ENVO API dispone en su sitio web y que opera desde el dominio https://app.envo.do
+	-ENVO API o Servicios ENVO API, hacen referencia a toda la información y funcionalidades que ENVO API dispone en su sitio web y que opera desde el dominio https://app.envo.do
 
--Usuario ENVO, toda persona inscrita como Usuario, sea administrador o limitado, en alguna cuenta de ENVO.
+	-Usuario ENVO, toda persona inscrita como Usuario, sea administrador o limitado, en alguna cuenta de ENVO.
 
--Desarrollador API, tercero que no disponga de una cuenta en ENVO que tenga acceso a los Servicios ENVO API bajo la autorización de un Usuario ENVO.
+	-Desarrollador API, tercero que no disponga de una cuenta en ENVO que tenga acceso a los Servicios ENVO API bajo la autorización de un Usuario ENVO.
 
--Usuario ENVO API, todo Usuario ENVO o Desarrollador API que haga uso de los Servicios ENVO API.
+	-Usuario ENVO API, todo Usuario ENVO o Desarrollador API que haga uso de los Servicios ENVO API.
 
--Las expresiones: ENVO, nosotros, nuestro(a), ENVO Web, hace referencia a Collado & Compañía E.I.R.L
+	-Las expresiones: ENVO, nosotros, nuestro(a), ENVO Web, hace referencia a Collado & Compañía E.I.R.L
 
 ### Términos ENVO API
 
@@ -882,19 +882,19 @@ Al hacer uso de los servicios ENVO API te encuentras sujeto a las siguientes res
 
 No podrás:
 
--Interferir con el correcto funcionamiento de ENVO API o distribuir cualquier Implementación ENVO API que afecte negativamente los servicios ENVO u otra aplicación que use ENVO API.
--Usar las credenciales de otro Usuario ENVO o Desarrollador API.
--Ocultar a ENVO información sobre tu uso de ENVO API.
--Usar ENVO API en asociación o como contenido en sitios web o aplicaciones que en el criterio de ENVO sean considerados obscenos o inapropiados.
--Utilizar ENVO API en aplicaciones que contengan, promuevan o estén conectadas con spyware, adware u otros códigos o programas maliciosos.
--Usar ENVO API en ninguna forma o para ningún propósito que viole la ley o los derechos de un individuo.
--Intentar extraer o copiar información del código base o de Usuarios ENVO.
--Difamar o representar negativamente a ENVO en tu Implementación de ENVO API.
--Usar ENVO API para cualquier uso que intente reemplazar o replicar la experiencia de uso o la funcionalidad de ENVO.
--Desarrollar una Implementación ENVO API, producto o servicio que en consideración de ENVO represente competencia.
--Hacer esfuerzos o actos que tengan como fin persuadir a los Usuarios ENVO de cancelar el servicio.
--Desarrollar cualquier Implementación ENVO API que a nuestro juicio se oponga o vaya en contravía de los principios y objetivos de ENVO.
--Al utilizar ENVO API, reconoces y permites que ENVO establezca o modifique el número máximo de peticiones que puedes realizar a través de nuestros servicios, los límites vigentes de uso para ENVO API los puedes encontrar en documento Límite de request. En caso que haya un cambio en estos valores, serás notificado con anterioridad.
+	-Interferir con el correcto funcionamiento de ENVO API o distribuir cualquier Implementación ENVO API que afecte negativamente los servicios ENVO u otra aplicación que use ENVO API.
+	-Usar las credenciales de otro Usuario ENVO o Desarrollador API.
+	-Ocultar a ENVO información sobre tu uso de ENVO API.
+	-Usar ENVO API en asociación o como contenido en sitios web o aplicaciones que en el criterio de ENVO sean considerados obscenos o inapropiados.
+	-Utilizar ENVO API en aplicaciones que contengan, promuevan o estén conectadas con spyware, adware u otros códigos o programas maliciosos.
+	-Usar ENVO API en ninguna forma o para ningún propósito que viole la ley o los derechos de un individuo.
+	-Intentar extraer o copiar información del código base o de Usuarios ENVO.
+	-Difamar o representar negativamente a ENVO en tu Implementación de ENVO API.
+	-Usar ENVO API para cualquier uso que intente reemplazar o replicar la experiencia de uso o la funcionalidad de ENVO.
+	-Desarrollar una Implementación ENVO API, producto o servicio que en consideración de ENVO represente competencia.
+	-Hacer esfuerzos o actos que tengan como fin persuadir a los Usuarios ENVO de cancelar el servicio.
+	-Desarrollar cualquier Implementación ENVO API que a nuestro juicio se oponga o vaya en contravía de los principios y objetivos de ENVO.
+	-Al utilizar ENVO API, reconoces y permites que ENVO establezca o modifique el número máximo de peticiones que puedes realizar a través de nuestros servicios, los límites vigentes de uso para ENVO API los puedes encontrar en documento Límite de request. En caso que haya un cambio en estos valores, serás notificado con anterioridad.
 
 ENVO podrá monitorear en cualquier momento tu uso de ENVO API con el fin de asegurar el cumplimiento de estos términos, no debes interferir u ocultar información a ENVO durante este proceso.
 
