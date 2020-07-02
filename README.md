@@ -32,6 +32,12 @@ Debes seguir los siguientes pasos para obtener el token de acceso:
 
 Si el API encuentra algún inconveniente con la autenticación retorna un código 401 y el error encontrado.
 
+## Límite de request
+
+La cantidad de request depende del plan o suscripción adquirida por el cliente.
+
+Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many request"). Si el usuario llega al límite debe esperar que se termine el período mensualen el cual e encuentre para realizar llamadas al API nuevamente.
+
 ## Enviar facturas
 
 `POST /invoice/`
