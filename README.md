@@ -666,6 +666,17 @@ Nuestra API está basada en principios REST que harán más fácil tu conexión 
 	 }
 	}
 	
+### Response
+
+    HTTP/1.1 200 OK
+    Date: Thu, 24 Feb 2020 12:36:30 GMT
+    Status: 200 OK
+    Connection: close
+    Content-Type: application/json
+    Content-Length: 2
+
+    []
+	
 ## Resumen de facturas
 
 ### Request
@@ -755,6 +766,17 @@ Nuestra API está basada en principios REST que harán más fácil tu conexión 
 
 	  }
 	}
+	
+### Response
+
+    HTTP/1.1 200 OK
+    Date: Thu, 24 Feb 2020 12:36:30 GMT
+    Status: 200 OK
+    Connection: close
+    Content-Type: application/json
+    Content-Length: 2
+
+    []
 
 ## Anulaciones
 
@@ -789,3 +811,14 @@ Nuestra API está basada en principios REST que harán más fácil tu conexión 
 	    }
 	  }
 	}
+	
+### Response
+
+    HTTP/1.1 200 OK
+    Date: Thu, 24 Feb 2020 12:36:30 GMT
+    Status: 200 OK
+    Connection: close
+    Content-Type: application/json
+    Content-Length: 2
+
+    []
