@@ -798,7 +798,7 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 
     []
 
-## Anulaciones
+## Anulaciones de facturas
 
 ### Request
 
