@@ -22,7 +22,7 @@ Nuestra API está basada en principios REST que harán más fácil tu conexión 
 
 `POST /invoice/`
 
-    curl -i -H 'Accept: application/json' https://app.envo.do/invoices/api/invoice
+    curl -i -H 'Accept: application/json' -d '' https://app.envo.do/invoices/api/invoice
 
 ### Request
 
@@ -683,7 +683,7 @@ Nuestra API está basada en principios REST que harán más fácil tu conexión 
 
 `POST /resume/`
 
-    curl -i -H 'Accept: application/json' https://app.envo.do/invoices/api/resume
+    curl -i -H 'Accept: application/json' -d '' https://app.envo.do/invoices/api/resume
 
 	{
 	  "RFCE": {
@@ -784,7 +784,7 @@ Nuestra API está basada en principios REST que harán más fácil tu conexión 
 
 `POST /canceled/`
 
-    curl -i -H 'Accept: application/json' https://app.envo.do/invoices/api/canceled
+    curl -i -H 'Accept: application/json' -d '' https://app.envo.do/invoices/api/canceled
 
 	{
 	  "ANECF": {
