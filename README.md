@@ -42,7 +42,7 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 
 `POST /invoice/`
 
-`curl -i -H 'Accept: application/json' -d '' https://app.envo.do/invoices/api/invoice`
+`curl -i -H 'Accept: application/json' -d '' https://envoconnector-dev.azurewebsites.net/invoices/api/invoice`
 
 ### Request
 
@@ -703,7 +703,7 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 
 `POST /resume/`
 
-`curl -i -H 'Accept: application/json' -d '' https://app.envo.do/invoices/api/resume`
+`curl -i -H 'Accept: application/json' -d '' https://envoconnector-dev.azurewebsites.net/invoices/api/resume`
 
 	{
 	  "RFCE": {
@@ -804,7 +804,7 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 
 `POST /canceled/`
 
-`curl -i -H 'Accept: application/json' -d '' https://app.envo.do/invoices/api/canceled`
+`curl -i -H 'Accept: application/json' -d '' https://envoconnector-dev.azurewebsites.net/invoices/api/canceled`
 
 	{
 	  "ANECF": {
