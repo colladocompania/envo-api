@@ -2,7 +2,7 @@
 
 ### Información general
  
-El ENVO API es un servicio que te permite acceder a nuestra plataforma de facturación electrónica, para realizar el envío de comprobantes electrónicos a la DGII.
+El ENVO API es un servicio que te permite acceder a nuestra plataforma de facturación electrónica, para realizar el envío de comprobantes electrónicos a la DGII. Favor visitar nuestra página web www.envo.do o www.colladocompania.com.do para más información.
  
 ### Funcionalidades principales de nuestra API:
 
