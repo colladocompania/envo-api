@@ -52,13 +52,13 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 
 	  "Encabezado": {
 
-			"Version": "1.0",
+	    "Version": "1.0",
 
 	    "IdDoc": [
 	      {
 
-		"eNCF": "E310000000002",
-		"TipoeCF": 31,
+		"eNCF": "E310000000029",
+		"TipoeCF": "31",
 		"FechaVencimientoSecuencia": "31-12-2021",
 		"IndicadorNotaCredito": null,
 		"IndicadorEnvioDiferido": null,
@@ -95,7 +95,7 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 	    "Emisor": [
 	      {
 
-		"RNCEmisor": "102002959",
+		"RNCEmisor": "102005863",
 		"RazonSocialEmisor": "Envases Antillanos",
 		"NombreComercial": "Envases Antiallanos",
 		"Sucursal": null,
@@ -106,20 +106,20 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 		"TablaTelefonoEmisor": [
 		  {
 
-		    "TelefonoEmisor": "809-536-3308",
-		    "rnc": null
+		    "TelefonoEmisor": "809-526-3370"
+
 
 		  },
 		  {
 
-		    "TelefonoEmisor": "809-536-3340",
-		    "rnc": null
+		    "TelefonoEmisor": "809-526-3371"
+
 
 		  }
 		],
 
-		"CorreoEmisor": "envan@en.com",
-		"WebSite": "www.envan.com",
+		"CorreoEmisor": "company@cmp.com",
+		"WebSite": "www.company.com",
 		"ActividadEconomica": null,
 		"CodigoVendedor": "2012521452",
 		"NumeroFacturaInterna": "900001251",
@@ -127,16 +127,16 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 		"ZonaVenta": "Este",
 		"RutaVenta": null,
 		"InformacionAdicionalEmisor": null,
-		"FechaEmision": "27-05-2020"
+		"FechaEmision": "04-07-2020"
 	      }
 	    ],
 	    "Comprador": [
 	      {
-		"RNCComprador": 131978596,
+		"RNCComprador": "101896183",
 		"IdentificadorExtranjero": null,
 		"RazonSocialComprador": "SAP Consulting",
 		"ContactoComprador": "William Gonzanlez",
-		"CorreoComprador": "plans@hi.com",
+		"CorreoComprador": "pels@hi.com",
 		"DireccionComprador": "Av. John F. Kennedy #27",
 		"MunicipioComprador": 20101,
 		"ProvinciaComprador": 20000,
@@ -216,7 +216,7 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 		  {
 
 		    "TipoImpuesto": 1,
-		    "TasaImpuestoAdicional": 18,
+		    "TasaImpuestoAdicional": 16,
 		    "MontoImpuestoSelectivoConsumoEspecifico": 1200,
 		    "MontoImpuestoSelectivoConsumoAdvalorem": 1100,
 		    "OtrosImpuestosAdicionales": 0
@@ -275,7 +275,7 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 		  {
 
 		    "TipoImpuestoOtraMoneda": 5,
-		    "TisaImpuestoOtraMoneda": 12,
+		    "TasaImpuestoOtraMoneda": 12,
 		    "MontoImpuestoSelectivoConsumoEspecificoOtraMoneda": 9500,
 		    "MontoImpuestoSelectivoConsumoAdvaloremOtraMoneda": 1100,
 		    "OtrosImpuestosAdicionalesOtraMoneda": 0
@@ -591,8 +591,7 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 		"SubTotalITBIS3": 0,
 		"SubTotalImpuestoAdicional": 520,
 		"SubTotalExento": 5500,
-		"MontoSubTotal": 12000,
-			"Lineas":		  0//ADDED
+		"MontoSubTotal": 12000
 
 	      }
 	    ]
