@@ -42,7 +42,7 @@ La cantidad de request depende del plan o suscripción adquirida por el cliente.
 
 Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many request"). Si el usuario llega al límite debe esperar que se termine el período mensualen el cual e encuentre para realizar llamadas al API nuevamente.
 
-## Enviar facturas
+## Envío de facturas
 
 `POST /invoice/`
 
@@ -700,7 +700,7 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 
     []
 	
-## Resumen de facturas
+## Envío de resumen de facturas
 
 ### Request
 
@@ -801,7 +801,7 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 
     []
 
-## Anulaciones de facturas
+## Envío de anulaciones de facturas
 
 ### Request
 
