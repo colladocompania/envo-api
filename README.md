@@ -18,6 +18,10 @@ El ENVO API es un servicio que te permite acceder a nuestra plataforma de factur
 	
 Nuestra API está basada en principios REST que harán más fácil tu conexión y desarrollo; método HTTP (POST) son utilizados para acceder a los recursos. El sistema procesa el request y retorna un código de respuesta en un formato de fácil compresión.
 
+## Cifrado TLS
+
+Nuestros servicios cuentan con cifrado TLS Security 5 con algoritmo de firmado SHA256 RSA 2048 bits punto a punto.
+
 ## Autenticación
 
 ### Obtener credenciales de acceso
