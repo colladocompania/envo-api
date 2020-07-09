@@ -7,8 +7,8 @@ El ENVO API es un servicio que te permite acceder a nuestra plataforma de factur
 ### Funcionalidades principales de nuestra API:
 
 	-Envío de facturas
-	-Envío de resumen de facturas
-	-Envío de anulaciones de facturas
+	-Envío de resumen de facturas (menores de RD$250,000.00)
+	-Envío de facturas anuladas
 	
 ### Recurso/Endpoint
 
