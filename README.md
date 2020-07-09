@@ -16,7 +16,7 @@ El ENVO API es un servicio que te permite acceder a nuestra plataforma de factur
 	-Resumen de facturas/resume
 	-Anulaciones/canceled
 	
-Nuestra API está basada en principios REST que harán más fácil tu conexión y desarrollo; métodos HTTP (GET y POST) son utilizados para acceder a los recursos. El sistema procesa el request y retorna un código de respuesta en un formato de fácil compresión.
+Nuestra API está basada en principios REST que harán más fácil tu conexión y desarrollo; método HTTP (POST) son utilizados para acceder a los recursos. El sistema procesa el request y retorna un código de respuesta en un formato de fácil compresión.
 
 ## Autenticación
 
