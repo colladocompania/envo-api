@@ -140,7 +140,7 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 		"IdentificadorExtranjero": null,
 		"RazonSocialComprador": "SAP Consulting",
 		"ContactoComprador": "William Gonzanlez",
-		"CorreoComprador": "dts@hi.com",
+		"CorreoComprador": "collado@hi.com",
 		"DireccionComprador": "Av. John F. Kennedy #27",
 		"MunicipioComprador": 20101,
 		"ProvinciaComprador": 20000,
