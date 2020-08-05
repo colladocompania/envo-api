@@ -61,8 +61,8 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 	    "IdDoc": [
 	      {
 
-		"eNCF": "E310000000029",
-		"TipoeCF": "31",
+		"eNCF": "E310000000001",
+		"TipoeCF": 31,
 		"FechaVencimientoSecuencia": "31-12-2021",
 		"IndicadorNotaCredito": null,
 		"IndicadorEnvioDiferido": null,
@@ -131,16 +131,16 @@ Si este límite es sobrepasado la aplicación retorna un código 429 ("Too Many 
 		"ZonaVenta": "Este",
 		"RutaVenta": null,
 		"InformacionAdicionalEmisor": null,
-		"FechaEmision": "04-07-2020"
+		"FechaEmision": "03-07-2020"
 	      }
 	    ],
 	    "Comprador": [
 	      {
-		"RNCComprador": "101896183",
+		"RNCComprador": 101896183,
 		"IdentificadorExtranjero": null,
 		"RazonSocialComprador": "SAP Consulting",
 		"ContactoComprador": "William Gonzanlez",
-		"CorreoComprador": "pels@hi.com",
+		"CorreoComprador": "dts@hi.com",
 		"DireccionComprador": "Av. John F. Kennedy #27",
 		"MunicipioComprador": 20101,
 		"ProvinciaComprador": 20000,
